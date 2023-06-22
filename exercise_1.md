@@ -1,9 +1,11 @@
-1. Declare 3 different string variables named `var1`, `var2`, `var3` respectively, while the content of these variables should be `'Happy'`, `'New'`, `'Year!'` accordingly. Use the operator `+` to concatenate these variables to get a new string variable named `var4`. Print the content of `var4` in the terminal, which will be like:
+1. Read [README.md](./README.md) and complete the tasks described in the document.
+
+2. Declare 3 different string variables named `var1`, `var2`, `var3` respectively, while the content of these variables should be `'Happy'`, `'New'`, `'Year!'` correspondingly. Use the operator `+` to concatenate these variables to get a new string variable named `var4`. Print the content of `var4` in the terminal, which will be like:
 ```
 HappyNewYear!
 ```
 
-2. Consider the sentence below:
+3. Consider the sentence below:
 
    > Becoming an expert won’t happen overnight, but with a little patience, you’ll get there.
 
