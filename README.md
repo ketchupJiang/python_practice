@@ -33,7 +33,7 @@
 
 ![img4](img/img4.png)
 
-Changes一栏下面出现的都是有所改动的文档，包括你自己所做的改动以及从Yojer的原仓库pull下来的改动。为了将这些变动同步到你远程的github repo，需要先commit，也就是提交这些改动。红圈部分的Message一栏用于填写commit信息，这一行可以填写任意内容，例如`1st version`, `Just some modifications`，但不能空着。填好commit信息后，需要点击红圈中的Commit按钮以提交这些变动。点击commit之后vscode可能会弹出一个对话框询问你是否要提交unstaged变动，点yes确认就好。
+Changes一栏下面出现的都是有所改动的文档，包括你自己所做的改动以及从Yojer的原仓库pull下来的改动。为了将这些变动同步到你远程的github repo，需要先commit，也就是提交这些改动。红圈部分的Message一栏用于填写commit信息，这一行可以填写任意内容，例如`1st version`, `Just some modifications`，但不能空着。填好commit信息后，需要点击红圈中的Commit按钮以提交这些变动。点击commit之后vscode可能会弹出一个对话框询问你是否要stage所有变动并提交，点yes确认就好。
 
 4. git push
 
