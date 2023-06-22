@@ -4,6 +4,7 @@ HappyNewYear!
 ```
 
 2. Consider the sentence below:
+
    > Becoming an expert won’t happen overnight, but with a little patience, you’ll get there.
 
 Use two different methods to print the sentence above, and the print result will be like:
