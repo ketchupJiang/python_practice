@@ -10,12 +10,12 @@
 
 2. git clone
 
-在github上点击你自己的头像，再点击`Your repositories`。你会发现自己的仓库中多了`python_practice`这个项目。唯一不同的是，现在这个项目相当于Yojer创建的项目的影分身。
-复制浏览器地址栏上的链接，类似：`https://github.com/Ketchupong/python_practice`。然后打开vscode，接下来的操作如图所示：
+在github上点击你自己的头像，再点击`Your repositories`。你会发现自己的仓库中多了`python_practice`这个项目。唯一不同的是，现在这个项目相当于Yojer所创原项目的影分身。
+复制浏览器地址栏上的链接，类似于：`https://github.com/Ketchupong/python_practice`（注意，链接中的用户名是你自己而不是YojerLiu）。然后打开vscode，之后的操作如图所示：
 
 ![img6](img/img6.png)
 
-点击clone，在上方弹出的对话框中粘贴刚刚复制好的链接，然后回车。根据提示将项目文件夹放在你指定的目录。然后在vscode中打开该项目。
+点击clone，在上方弹出的对话框中粘贴刚刚复制的链接，然后回车。根据提示将项目文件夹放在你指定的目录。然后在vscode中打开该项目。
 
 3. git pull
 
@@ -27,7 +27,7 @@
 
 ![img3](img/img3.png)
 
-点击pull。这时Yojer在原始仓库所更新的内容会被下拉到本地，并与你自己在本地做的修改（如果有的话）进行合并。
+点击pull。这时Yojer在原始仓库所更新的内容会被下拉到本地（本地就是指你自己的电脑），并与你自己在本地做的修改（如果有的话）进行合并。
 
 3. git commit
 
